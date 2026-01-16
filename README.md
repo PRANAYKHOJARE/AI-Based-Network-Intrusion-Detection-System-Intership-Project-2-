@@ -16,6 +16,7 @@ This project demonstrates how to use **Machine Learning (Random Forest)** and **
 ## Output Screenshot
 
 ![Output](images/1.png)
+![Output](images/2.png)
 ![Output](images/3.png)
 
 ## 🚀 How to Use
